@@ -128,6 +128,35 @@ header {
     text-decoration: none;
 }
 
+.body-container-4 {
+    max-width: 1512px;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+    background-color: #000000;
+    justify-content: space-between;
+}
+.watch {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.airpods {
+    display: flex;
+    flex-direction: column
+}
+
+.airpods h1 {
+    color: #F5F5F7;
+
+}
+
+.airpods h2 {
+    color: #F5F5F7;
+}
+
 /* Footer */
 
 .footer-container {
